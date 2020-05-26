@@ -22,6 +22,6 @@ I used Postman for delete operation.
 
 Data deleted in mysql database.(id=4125,name=Podgorica…)
 
-I created frontand application with Angular for this backend application,
+I created frontand application with Angular for this backend application.
 
-you can access this address->https://github.com/onurkslr/city
+You can access this address -> https://github.com/onurkslr/CrudAngular
